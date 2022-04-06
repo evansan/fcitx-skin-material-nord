@@ -56,3 +56,6 @@ Then restart fcitx5 to apply the theme
 ```sh
 fcitx5 -r
 ```
+
+
+Inspired by [fcitx-skin-material](https://github.com/hrko/fcitx-skin-material)
