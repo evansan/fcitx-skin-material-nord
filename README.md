@@ -2,7 +2,7 @@
 fcitx-skin-material with Nord color scheme
 
 ## Screenshot
-
+![Screenshot](./sample.png)
 
 ## Usage
 
